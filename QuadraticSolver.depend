@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715847215 source:c:\users\st tobiloba\desktop\c++\assignments\quadraticsolver\main.cpp
+	<iostream>
+	<cmath>
+	<cctype>
+
